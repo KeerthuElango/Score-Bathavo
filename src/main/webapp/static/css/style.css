@@ -1,0 +1,67 @@
+.invisible-at-first {
+	display: none;
+}
+body, html {
+  height: 100%;
+}
+.bg-home{
+  background-image: url('../../images/be.jpg');
+  /*background-color: #0000;*/
+  /*height: 100%;*/
+  min-height : 100%;
+  min-width : 100%;
+  background-size:100% 100%;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  background-position: center;
+  background-repeat: no-repeat;
+  /*background-size: cover;*/
+}
+.bg-reg{
+  background-image: url('../../images/log.jpg');
+  /*background-color: #0000;*/
+  /*height: 100%;*/
+  min-height : 100%;
+  min-width : 100%;
+  background-size:100% 100%;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  background-position: center;
+  background-repeat: no-repeat;
+  /*background-size: cover;*/
+}
+ .navbar-custom { 
+            background-color: white; 
+        }
+
+.bg-admin{
+  background-image: url('../../images/admin.jpg');
+  /*background-color: #0000;*/
+  /*height: 100%;*/
+  min-height : 100%;
+  min-width : 100%;
+  background-size:100% 100%;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  background-position: center;
+  background-repeat: no-repeat;
+  /*background-size: cover;*/
+}
+.bg-login{
+  background-image: url('../../images/log_page.jpg');
+  /*background-color: #0000;*/
+  /*height: 100%;*/
+  min-height : 100%;
+  min-width : 100%;
+  background-size:100% 100%;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  background-position: center;
+  background-repeat: no-repeat;
+  /*background-size: cover;*/
+}
+
+/*.card-deck {
+	position: absolute;
+	top: 50vh;
+}*/
